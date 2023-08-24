@@ -32,6 +32,7 @@ Ferramentas usadas no projeto 💻:
 - Frame-motion
 --------------------------------------------------------------------------
 Site: [https://arthur-claro-kf-arthurclaro.vercel.app/](https://arthur-claro-kf-arthurclaro.vercel.app/)https://arthur-claro-kf-arthurclaro.vercel.app/
-
+<br>
+🎬 : https://www.linkedin.com/posts/arthur-claro-dev_react-api-frontend-activity-7100432804512956416-DSXw?utm_source=share&utm_medium=member_desktop
 
 
