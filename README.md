@@ -1,4 +1,4 @@
-#🚀 Compartilhando minha última aplicação web, Kenzie Hub (working in progress)! 😍💻
+🚀 Compartilhando minha última aplicação web, Kenzie Hub (working in progress)! 😍💻
 
 Utilizei o React como base para criar uma interface dinâmica e responsiva, proporcionando uma melhor experiência ao usuário. 💪✨
 
@@ -29,6 +29,8 @@ Ferramentas usadas no projeto 💻:
 - React Router Dom
 - Frame-motion
 --------------------------------------------------------------------------
-Site: [https://arthur-claro-kf-arthurclaro.vercel.app/](https://arthur-claro-kf-arthurclaro.vercel.app/)https://arthur-claro-kf-arthurclaro.vercel.app/![Captura de tela 2023-08-24 074731](https://github.com/ArthurClaro/KenzieHub/assets/124170421/899192d8-4ee7-42fd-8737-6dff8a7c17b0)
+Site: [https://arthur-claro-kf-arthurclaro.vercel.app/](https://arthur-claro-kf-arthurclaro.vercel.app/)https://arthur-claro-kf-arthurclaro.vercel.app/
+
+![Captura de tela 2023-08-24 074731](https://github.com/ArthurClaro/KenzieHub/assets/124170421/899192d8-4ee7-42fd-8737-6dff8a7c17b0)
 
 
